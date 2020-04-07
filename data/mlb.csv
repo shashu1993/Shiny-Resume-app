@@ -1,0 +1,31 @@
+site,cat,subcat,lat,lng,team,team_id
+Chase Field,mlb,nl,33.4454527,-112.0665087,Arizona Diamondbacks,ari
+SunTrust Park,mlb,nl,33.8907177,-84.4678512,Atlanta Braves,atl
+Oriole Park at Camden Yards,mlb,al,39.2839354,-76.6217541,Baltimore Orioles,bal
+Fenway Park,mlb,al,42.346573,-71.0968638,Boston Red Sox,bos
+Guaranteed Rate Field,mlb,al,41.8299021,-87.6339409,Chicago White Sox,chw
+Wrigley Field,mlb,nl,41.9484384,-87.6555214,Chicago Cubs,chc
+Great American Ball Park,mlb,nl,39.0973787,-84.5070102,Cincinnati Reds,cin
+Progressive Field,mlb,al,41.496211,-81.6854176,Cleveland Indians,cle
+Coors Field,mlb,nl,39.7558823,-104.9943668,Colorado Rockies,col
+Comerica Park,mlb,al,42.3389984,-83.0487084,Detroit Tigers,det
+Minute Maid Park,mlb,al,29.7572694,-95.355703,Houston Astros,hou
+Kauffman Stadium,mlb,al,39.0516719,-94.4805029,Kansas City Royals,kcr
+Angel Stadium of Anaheim,mlb,al,33.800308,-117.8829208,Los Angeles Angels of Anaheim,laa
+Dodger Stadium,mlb,nl,34.073851,-118.240147,Los Angeles Dodgers,lad
+Marlins Park,mlb,nl,25.7781486,-80.2199222,Miami Marlins,mia
+Miller Park,mlb,nl,43.0279776,-87.9713391,Milwaukee Brewers,mil
+Target Field,mlb,al,44.9817656,-93.2777027,Minnesota Twins,min
+Yankee Stadium,mlb,al,40.829622,-73.9265177,New York Yankees,nyy
+Citi Field,mlb,nl,40.7570877,-73.84601,New York Mets,nym
+Oakland-Alameda County Coliseum,mlb,al,37.7515946,-122.2007345,Oakland Athletics,oak
+Citizens Bank Park,mlb,nl,39.9060572,-75.1666839,Philadelphia Phillies,phi
+PNC Park,mlb,nl,40.4468548,-80.0058544,Pittsburgh Pirates,pit
+Petco Park,mlb,nl,32.7076035,-117.1572247,San Diego Padres,sdp
+T-Mobile Park,mlb,al,47.5914026,-122.3326972,Seattle Mariners,sea
+Oracle Park,mlb,nl,37.7785951,-122.3894585,San Francisco Giants,sfg
+Busch Stadium,mlb,nl,38.6226188,-90.1930096,St Louis Cardinals,stl
+Tropicana Field,mlb,al,27.7682246,-82.6535808,Tampa Bay Rays,tbr
+Globe Life Park in Arlington,mlb,al,32.7512152,-97.0823977,Texas Rangers,tex
+Rogers Centre,mlb,al,43.6417798,-79.3893324,Toronto Blue Jays,tor
+Nationals Park,mlb,nl,38.8730102,-77.0076216,Washington Nationals,was

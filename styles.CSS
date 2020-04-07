@@ -1,0 +1,46 @@
+.outer {
+  position: fixed;
+  top: 50px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+.left {
+  position: fixed;
+  top: 60px;
+  left: 0;
+  right: 33%;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+.right {
+  position: fixed;
+  top: 60px;
+  left: 33%;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+#controls {
+  /* Appearance */
+  background-color: #9dfcfb;
+  color: #000000;
+  padding: 20px 15px 15px 15px;
+  cursor: auto;
+  /* Fade out while not hovering */
+  opacity: 0.85;
+  transition: opacity 500ms 1s;
+}
+
+#controls:hover {
+  /* Fade in while hovering */
+  opacity: 0.95;
+  transition-delay: 0;
+}
